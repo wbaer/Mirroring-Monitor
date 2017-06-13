@@ -1,0 +1,32 @@
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Mirroring Monitor.exe
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Mirroring Monitor.pdb
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Microsoft.SharePoint.dll
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Microsoft.SharePoint.Security.dll
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Microsoft.SharePoint.Search.dll
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Microsoft.SharePoint.Security.xml
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Microsoft.SharePoint.Search.xml
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Microsoft.SharePoint.xml
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/obj/Debug/Mirroring Monitor.csproj.GenerateResource.Cache
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/obj/Debug/Mirroring Monitor.exe
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/obj/Debug/Mirroring Monitor.pdb
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/obj/Debug/MS.Mirroring.Monitor.Properties.Resources.resources
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/obj/Debug/MS.Mirroring.Monitor.Main.resources
+C:/Users/WBAER.REDMOND/Documents/Visual Studio 2008/Projects/SPSiteParser/SPSiteParser/bin/Debug/Mirroring Monitor.exe.config
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/SPSiteParser/bin/Debug/Mirroring Monitor.exe.config
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/SPSiteParser/obj/Debug/Mirroring Monitor.exe
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/SPSiteParser/obj/Debug/Mirroring Monitor.pdb
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/obj/Debug/Mirroring Monitor.exe
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/obj/Debug/Mirroring Monitor.pdb
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Mirroring Monitor.exe
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Mirroring Monitor.pdb
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Microsoft.SharePoint.dll
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Microsoft.SharePoint.Security.dll
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Microsoft.SharePoint.Search.dll
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Microsoft.SharePoint.Security.xml
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Microsoft.SharePoint.Search.xml
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/bin/Debug/Microsoft.SharePoint.xml
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/obj/Debug/MS.Mirroring.Monitor.Main.resources
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/obj/Debug/MS.Mirroring.Monitor.Properties.Resources.resources
+C:/Users/wbaer.REDMOND/Documents/Visual Studio 2008/Projects/Mirroring Monitor/Mirroring Monitor/obj/Debug/Mirroring Monitor.csproj.GenerateResource.Cache

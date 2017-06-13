@@ -1,0 +1,8 @@
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\obj\Debug\SPSiteParser.csproj.GenerateResource.Cache
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\bin\Debug\MirroringMonitor.exe
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\bin\Debug\MirroringMonitor.pdb
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\obj\Debug\MirroringMonitor.Properties.Resources.resources
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\obj\Debug\MirroringMonitor.exe
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\obj\Debug\MirroringMonitor.pdb
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\SPSiteParser\SPSiteParser\obj\Debug\MirroringMonitor.Form1.resources
